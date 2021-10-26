@@ -9,7 +9,7 @@
 ## Jarvis From Basic to Advance 
 - [Part - 1](https://www.codesempai.ml/2021/10/basic-jarvis.html)
 - [Part - 2](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-2.html)  
-- Part - 3 under-working
+- [Part - 3](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-3.html)  
 - Part - 4 under-working
 ## Features
 
