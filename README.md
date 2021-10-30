@@ -9,8 +9,9 @@
 ## Jarvis From Basic to Advance 
 - [Part - 1](https://www.codesempai.ml/2021/10/basic-jarvis.html)
 - [Part - 2](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-2.html)  
-- [Part - 3](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-3.html)  
-- Part - 4 under-working
+- [Part - 3](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-3.html)]
+- [Part - 4](https://www.codesempai.ml/2021/10/build-ai-from-basic-to-advance-part-4.html)    
+- Part - 5 under-working
 ## Features
 
 #### For a cool demo of this project watch this [YouTube video](https://youtu.be/Z5rdSA0lvNo)
