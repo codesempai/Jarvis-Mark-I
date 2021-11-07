@@ -55,13 +55,14 @@ def takeCommand():
     try:
         print("Recognising...")
         query = r.recognize_google(audio)
-        print(query)
     except Exception as e:
         print(e)
-        speak("Say that again please..")
+        print("---")
 
         return "None"
     return query
+
+
 
 
 if __name__ == "__main__":
