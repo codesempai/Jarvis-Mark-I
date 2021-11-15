@@ -1,20 +1,20 @@
-# JARVIS (Basic to Advance)
+# JARVIS AI Mark - I
+Made by Gaurav Dhuria
+####  DEMO :  [YouTube video](https://youtu.be/Z5rdSA0lvNo)
 
-#### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
-#### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
+#### Discription: 
+This is my JARVIS MARK-I with advance programming(ML/DL) and electronics include microcontroller and sensors My Goal was to merge AI and Electronics this was the 1st version i made Soon gonna include more advance feature in MARK II
+
 
 ## Built with
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-## Jarvis From Basic to Advance 
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bM86XXVaQme9wLJRFNk1IKtvoLEfnq22NZeP0CgHMiZc10F2ULJVoq8Ws6mlO0qpsvA&usqp=CAU"></code>
+## Jarvis From Basic to Advance Tutorial
 - [Part - 1](https://www.codesempai.ml/2021/10/basic-jarvis.html)
-- [Part - 2]()  
-- [Part - 3]()
-- [Part - 4]()    
-- Part - 5 
+- More Parts are comming soon...
 ## Features
 
-#### For a cool demo of this project watch this [YouTube video](https://youtu.be/Z5rdSA0lvNo)
+#### Demo of this project watch this [YouTube video](https://youtu.be/Z5rdSA0lvNo)
 
 It can do a lot of cool things, some of them being:
 
@@ -41,6 +41,16 @@ It can do a lot of cool things, some of them being:
 - Can take screenshot and save it with custom filename
 - Can hide all files in a folder and also make them visible again
 - Has a cool Graphical User Interface
+- Machine learning consept
+- Deep learning consept
+- face recognation
+- gesture recognation
+## ARDUINO FEATURES 
+Automation and security
+- Voice Opeaning and closing door 
+- Turn LED on/off
+- Different Light intensity
+- Alert User through Motion sensor
 
 ## API Keys
 To run this program you will require a bunch of API keys. Register your API key by clicking the following links
