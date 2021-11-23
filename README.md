@@ -1,5 +1,5 @@
 # JARVIS AI Mark - I
-## Made by Gaurav Dhuria
+Made by Gaurav Dhuria
 [![IMAGE ALT TEXT HERE](https://1.bp.blogspot.com/-8-xgpYC8xQA/YM_83Y1ABZI/AAAAAAAAKow/IJhB-C8CuyAfUuN2E3jWrm6rGG1DSdxpQCLcBGAsYHQ/w660-h371/DEMO%2B%25281%2529.png)](https://youtu.be/Z5rdSA0lvNo)
 
 ####  DEMO :  [YouTube video](https://youtu.be/Z5rdSA0lvNo)
@@ -11,8 +11,8 @@ This is my JARVIS MARK-I with advance programming(ML/DL) and electronics include
 ## Built with
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bM86XXVaQme9wLJRFNk1IKtvoLEfnq22NZeP0CgHMiZc10F2ULJVoq8Ws6mlO0qpsvA&usqp=CAU"></code>
-## Jarvis From Basic to Advance Tutorial
-- [Part - 1](https://www.codesempai.ml/2021/10/basic-jarvis.html)
+### Jarvis From Basic to Advance Tutorial Playlist
+[<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpsmxvq_XejJnCQcxhpr8Ph-78nhYNfbf_HfUq9ny_IyrqLi169a9sAv6I32UdyWFAB8&usqp=CAU"></code>](https://www.youtube.com/c/Codesempai-Gaurav-Dhuria/playlists)
 - More Parts are comming soon...
 ## Features
 
