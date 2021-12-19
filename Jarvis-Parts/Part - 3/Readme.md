@@ -1,11 +1,17 @@
-## PART - 4 |  Create & import library in Python
+## PART - 3 |  Adding Features
 
-- [Website](https://www.codesempai.ml/2021/12/build-ai-from-basic-to-advance-part-4.html) >>
-
-
-[![IMAGE ALT TEXT HERE](https://blogger.googleusercontent.com/img/a/AVvXsEhc32om8iSUlP1vicUVHvPhBFzSP0yCnPlhtXs4fnSjjZCh-idnD3MxqUW94A03Wm7XPv0MKruZdZZc2RmB74lEEHB9OLLTGKhnvvIx1P0cdKNdGnOqQ7EdEWa1Fi1-eaRI9RJK-oIBOiRp_4UQmJlQQdrzq3iMWOszZEPVBlqMhs9snZGlFubJVzI2=w493-h279)](https://youtu.be/J1I4tHL6ezc)
+- [Website](https://www.codesempai.ml/2021/10/jarvis-from-basic-to-advance-part-3.html) >>
 
 
-↯ BEFORE ADDING Advance FEATURE WE NEED TO LEARN TO MAKE OUR OWN LIBRARY
+[![IMAGE ALT TEXT HERE](https://blogger.googleusercontent.com/img/a/AVvXsEjafvyQWB3p18Q1aQdbF3aT5v2lyt4-t0GXrt-YobugUEy6eVPMhUJE-B6M2ikSIBUOGI3odAEnkgFDst1HGqMCO2ca6GuAB0mC7RBN6Ds1l6iMaabje10t8iitsHCP_VloPnC1fDXanwEjZ2fTqMxWkaoTuL8Bbo9cAAA3160oPwe3xt85waiRwpms=s1280)](https://youtu.be/UyGV-qDRNCk)
 
+
+- Open the hidden menu
+- Open the Task Manager
+- Open the Task View
+- Take screenshot
+- Take Snip
+- Open setting
+- close this app
+- Add a new virtual desktop
 
